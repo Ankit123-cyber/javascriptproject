@@ -1,0 +1,16 @@
+.contact-content{
+    height: 395px;
+    margin-top: 32px;
+    padding: 9px;
+    position: relative;
+    /*background-color: rgb(50, 107, 102); */
+}
+
+.line{
+    width: 80vw;
+    margin-top:7px;
+    margin-left: 120px;
+}
+.form-box input,textarea{
+    margin: 10px 0px;
+}
